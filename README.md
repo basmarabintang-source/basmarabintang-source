@@ -79,9 +79,3 @@ Plus the parts with no logo to show: **n8n**, the **WhatsApp Cloud API**, the **
 API**, and **Google Apps Script** — which is where most of the actual work happens.
 
 Open to automation and internal-tooling work.
-
----
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=basmarabintang-source&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>

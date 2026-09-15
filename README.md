@@ -1,4 +1,4 @@
-### Hi, I'm Bintang
+### Sup, I'm Bintang Or you can call me Star in english
 
 I work out what a business should automate, then build it — mostly in **n8n**, on top of
 **Supabase / Postgres**, with WhatsApp and Telegram as the parts people actually touch.
